@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I think I am funny 😂
 
 ---
-![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)
+<!-- ![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png) -->
 ![facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)
 ![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
 ---
@@ -29,15 +29,20 @@
 
 
 ## Familiar Languages and Tools: ##
-.<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
+.<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/dart.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ios.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/android.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
 
 
 <!-- Laguages icons should be here -->
