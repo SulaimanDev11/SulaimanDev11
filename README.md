@@ -38,9 +38,9 @@
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/android.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" />
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" /> -->
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" /> -->
+<!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" /> -->
 ---
 
 <!-- Laguages icons should be here -->
