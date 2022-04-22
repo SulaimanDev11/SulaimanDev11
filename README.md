@@ -29,15 +29,15 @@
 ## Familiar Languages and Tools: ##
 .<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flutter.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/dart.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/android.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/git.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/ios.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/android.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/php.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/firebase.svg" />
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sqlite.svg" /> -->
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" /> -->
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" /> -->
