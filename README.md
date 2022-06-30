@@ -43,7 +43,5 @@
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/mysql.svg" /> -->
 <!-- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" /> -->
 ---
-<!-- hi-->
-
 <!-- Laguages icons should be here -->
-<!-- ![snake gif](https://github.com/SulaimanDev11/SulaimanDev11/blob/output/github-contribution-grid-snake.gif) -->
+<--![snake gif](https://github.com/SulaimanDev11/SulaimanDev11/blob/output/github-contribution-grid-snake.gif)-->
