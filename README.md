@@ -45,5 +45,4 @@
 ---
 <!-- Laguages icons should be here -->
 <img src="https://github.com/SulaimanDev11/SulaimanDev11/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
-[snake gif](https://github.com/SulaimanDev11/SulaimanDev11/blob/output/github-contribution-grid-snake.gif)
 
