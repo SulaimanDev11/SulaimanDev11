@@ -6,8 +6,8 @@
 **A passionate mobile developer from Pakistan**
 
 
-- 🔭 I’m currently working on Flutter and Php
-- 🌱 I’m currently learning Laravel 
+- 🔭 I’m currently working on Flutter, Dart, Nodejs, Express, MongoDb, SQL and Php
+- 🌱 I’m currently learning Reactjs 
 - 👯 I’m looking to collaborate on WEB Projects
 - 💬 Ask me about android flutter firebase api
 - 📫 How to reach me: sulaikhan12@gmail.com
